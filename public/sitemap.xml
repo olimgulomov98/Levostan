@@ -3,23 +3,23 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         <loc>https://levostan.uz/</loc>
-        <lastmod>2026-02-12</lastmod>
+        <lastmod>2026-06-10</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
         <image:image>
             <image:loc>https://levostan.uz/levostan.webp</image:loc>
-            <image:title>МЕДИРЕН® таблетки — растительный урологический препарат</image:title>
-            <image:caption>МЕДИРЕН® таблетки №60 — комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей</image:caption>
+            <image:title>ЛЕВОСТАН раствор для инфузий — Левофлоксацин 5 мг/мл</image:title>
+            <image:caption>ЛЕВОСТАН (Levofloxacin) 100 мл — антибактериальный препарат в форме раствора для инфузий, применяемый для лечения бактериальных инфекций</image:caption>
         </image:image>
         <image:image>
             <image:loc>https://levostan.uz/levostan-logo.svg</image:loc>
-            <image:title>МЕДИРЕН логотип</image:title>
-            <image:caption>Логотип препарата МЕДИРЕН от Spring Pharmaceutic</image:caption>
+             <image:title>ЛЕВОСТАН логотип</image:title>
+            <image:caption>Логотип препарата ЛЕВОСТАН (Levofloxacin) от Samarkand England Eco-Medical</image:caption>
         </image:image>
     </url>
     <url>
         <loc>https://levostan.uz/instruction_ru.docx</loc>
-        <lastmod>2026-02-12</lastmod>
+        <lastmod>2026-06-10</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.60</priority>
     </url>

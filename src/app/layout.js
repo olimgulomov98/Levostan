@@ -5,25 +5,28 @@ const inter = Inter({ subsets: ["latin", "cyrillic"] });
 
 export const metadata = {
   metadataBase: new URL("https://levostan.uz"),
-  title: "ЛЕВОСТАН — Левофлоксацин - 500 мг/100 мл",
+  title: "ЛЕВОСТАН — Левофлоксацин 5 мг/мл, раствор для инфузий",
   description:
-    "ЛЕВОСТАН — комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей. Мочегонное, спазмолитическое, противовоспалительное действие. Производитель: Spring Pharmaceutic.",
+    "ЛЕВОСТАН (Levofloxacin) — антибактериальный препарат группы фторхинолонов в форме раствора для инфузий 5 мг/мл. Применяется для лечения инфекций дыхательных путей, мочевыводящих путей, кожи и мягких тканей.",
   keywords: [
-    "levostan",
-    "levostan таблетки",
-    "урологический препарат",
-    "лечение почек",
-    "мочевыводящие пути",
-    "цистит лечение",
-    "пиелонефрит",
-    "растительный препарат",
-    "Spring Pharmaceutic",
-    "фитопрепарат",
-    "мочекаменная болезнь",
-    "levostan",
-    "buyrak dorisi",
-    "siydik yo'llari",
-    "o'simlik preparati",
+    "левостан",
+    "левофлоксацин",
+    "levofloxacin",
+    "антибиотик",
+    "раствор для инфузий",
+    "левостан 100 мл",
+    "левостан 5 мг мл",
+    "инфекции мочевыводящих путей",
+    "инфекции дыхательных путей",
+    "антибактериальный препарат",
+    "SEEM Pharmaceuticals",
+    "ЛЕВОСТАН",
+    "Levostan",
+    "Левофлоксацин 500 мг",
+    "infuzion eritma",
+    "antibiotik",
+    "siydik yo'llari infeksiyasi",
+    "nafas yo'llari infeksiyasi",
   ],
   robots: {
     index: true,
@@ -45,16 +48,16 @@ export const metadata = {
   openGraph: {
     type: "website",
     url: "https://levostan.uz",
-    title: "ЛЕВОСТАН — Растительный урологический препарат",
+    title: "ЛЕВОСТАН — Левофлоксацин 5 мг/мл",
     description:
-      "Комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей. Мочегонное, спазмолитическое, противовоспалительное действие.",
+      "Антибактериальный препарат ЛЕВОСТАН (Levofloxacin) в форме раствора для инфузий 5 мг/мл. Производитель: SEEM Pharmaceuticals.",
     siteName: "ЛЕВОСТАН",
     images: [
       {
         url: "/levostan.webp",
         width: 900,
         height: 800,
-        alt: "ЛЕВОСТАН",
+        alt: "ЛЕВОСТАН Левофлоксацин 5 мг/мл",
       },
       {
         url: "/levostan-logo.svg",
@@ -67,15 +70,14 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "МЕДИРЕН® — Растительный урологический препарат",
+    title: "ЛЕВОСТАН — Левофлоксацин 5 мг/мл",
     description:
-      "Комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей.",
+      "Антибактериальный препарат ЛЕВОСТАН (Levofloxacin) для инфузионной терапии.",
     images: ["/levostan.webp"],
   },
   other: {
-    "telegram:channel": "@SpringPharmaceutic",
-    "instagram:account": "@springpharmaceutic",
-    "article:publisher": "https://www.facebook.com/spring.pharm.3/",
+    "telegram:channel": "@SEEMPharmaceuticals",
+    "instagram:account": "@seem_pharmaceuticals",
   },
 };
 
