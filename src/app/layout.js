@@ -40,7 +40,7 @@ export const metadata = {
     },
   },
   verification: {
-    google: "EeNrX_Vhd4bMEJnslGv6D89shImpFKT1eTXHeeqUF8I",
+    google: "BxjN2uaKpWkZvcVc3Hi3Fj0zduNWd79c21c8LYUSAZ8",
   },
   alternates: {
     canonical: "https://levostan.uz",
