@@ -28,6 +28,16 @@ const jsonLd = {
   },
   category: "Фитопрепараты, урология",
   url: "https://levostan.uz",
+  offers: {
+    "@type": "Offer",
+    availability: "https://schema.org/InStock",
+    price: "0",
+    priceCurrency: "UZS",
+    seller: {
+      "@type": "Organization",
+      name: 'ООО "SEEM Pharmaceuticals"',
+    },
+  },
 };
 
 export default function Home() {
