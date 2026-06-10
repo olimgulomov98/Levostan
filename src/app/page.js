@@ -19,7 +19,7 @@ const jsonLd = {
       addressLocality: "Касансайский район",
       streetAddress: "Кукимбой, Навбахор МСГ, улица Булак, дом 129",
     },
-    telephone: "+998996942363",
+    telephone: "+998662307700",
     email: "spring_pharmaceutic@gmail.com",
     sameAs: [
       "https://www.instagram.com/springpharmaceutic/",
@@ -59,7 +59,7 @@ export default function Home() {
             />
           </a>
           <h3 className="text-[11px] md:text-[18px] md:block font-medium">
-            Tel: +998 99 694 23 63
+            Tel: +998 66 230 77 00
           </h3>
         </div>
         <div className="mt-[50px]">
@@ -487,15 +487,17 @@ export default function Home() {
                     деятельности:
                   </span>
                 </strong>
+                <p className="mt-2 text-[14px] font-bold">
+                  СП ООО «Samarkand England Eco-Medical».
+                </p>
                 <p className="mt-2 text-[14px]">
-                  Республика Узбекистан, Наманганская область, Касансайский
-                  район, Кукимбой, Навбахор МСГ, улица Булак, дом 129.
+                  Республика Узбекистан, Самарканд область, Посёлок Фархад, №9.
                   <br />
-                  Тел.: +998996942363
+                  Тел.: +998662307700
                 </p>
               </div>
 
-              <a
+              {/* <a
                 href="https://www.instagram.com/springpharmaceutic/"
                 className="flex gap-3 items-center"
               >
@@ -506,8 +508,8 @@ export default function Home() {
                   alt="instagram"
                 />
                 @springpharmaceutic
-              </a>
-              <a
+              </a> */}
+              {/* <a
                 href="https://www.facebook.com/spring.pharm.3/"
                 className="flex gap-3 items-center"
               >
@@ -518,8 +520,8 @@ export default function Home() {
                   alt="instagram"
                 />
                 Spring Pharm
-              </a>
-              <a
+              </a> */}
+              {/* <a
                 href="https://t.me/SpringPharmaceutic"
                 className="flex gap-3 items-center"
               >
@@ -532,7 +534,7 @@ export default function Home() {
                   alt="instagram"
                 />
                 Spring_Pharmaceutic
-              </a>
+              </a> */}
               <a href="#" className="flex gap-3 items-center mb-3">
                 <img
                   src="/email-svgrepo-com.svg"
@@ -540,7 +542,7 @@ export default function Home() {
                   className="w-[25px] h-[25px]"
                   alt="instagram"
                 />
-                spring_pharmaceutic@gmail.com
+                info@seem.uz
               </a>
               <div className="mb-5 flex gap-3 flex flex-wrap">
                 <a
