@@ -26,7 +26,7 @@ const jsonLd = {
       "https://t.me/seem_pharmaceuticals",
     ],
   },
-  category: "Фитопрепараты, урология",
+  category: "Антибактериальные препараты, хинолоны, инфекционные заболевания",
   url: "https://levostan.uz",
   offers: {
     "@type": "Offer",
